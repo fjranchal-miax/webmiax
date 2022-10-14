@@ -29,7 +29,7 @@ html {
     background-color: #0f215d;
     position: fixed;
     bottom: 0px;
-    height: 60px;
+    height: 10px;
     width: 100%;
     z-index: 10;
   }
