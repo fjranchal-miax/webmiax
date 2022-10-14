@@ -1,2 +1,2 @@
 # webmiax
-Clase 14/10/2022
+Ejercicio durante la clase del 14/10/2022.
